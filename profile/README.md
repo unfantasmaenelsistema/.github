@@ -4,7 +4,7 @@
 
 # 👻 UN_FANTASMA_EN_EL_SISTEMA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=root%40ghost%3A~%23+whoami;Aprende+a+romperlo+para+aprender+a+protegerlo.;Y+s%C3%AD%2C+el+fantasma+tambi%C3%A9n+tiene+martillo.;C%C3%B3digo+abierto.+Sin+telemetr%C3%ADa+oculta.;git+clone+conocimiento+%26%26+./aprender.sh" alt="Terminal animado: whoami, aprende a romperlo para aprender a protegerlo">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=39FF14&background=0A0A0A&center=true&vCenter=true&width=700&height=50&lines=root%40ghost%3A~%23+whoami;Aprende+a+romperlo+para+aprender+a+protegerlo.;Y+s%C3%AD%2C+el+fantasma+tambi%C3%A9n+tiene+martillo.;C%C3%B3digo+abierto.+Sin+telemetr%C3%ADa+oculta.;git+clone+conocimiento+%26%26+./aprender.sh" alt="Terminal animado: whoami, aprende a romperlo para aprender a protegerlo">
 
 Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos sistemas para aprender a blindarlos.
 
