@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=700&lines=root%40ghost%3A~%23+whoami;Aprende+a+romperlo+para+aprender+a+protegerlo.;Y+s%C3%AD%2C+el+fantasma+tambi%C3%A9n+tiene+martillo.;C%C3%B3digo+abierto.+Sin+telemetr%C3%ADa+oculta.;git+clone+conocimiento+%26%26+./aprender.sh" alt="Terminal animado: whoami, aprende a romperlo para aprender a protegerlo">
 
-Herramientas, cursos y apps de ciberseguridad creadas por un profesor.
+Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos sistemas para aprender a blindarlos.
 
 [![Web](https://img.shields.io/badge/WEB-unfantasmaenelsistema.com-0A0A0A?style=for-the-badge&logo=firefoxbrowser&logoColor=39FF14&labelColor=0A0A0A&color=0A0A0A)](https://www.unfantasmaenelsistema.com)
 [![Ghost Academy](https://img.shields.io/badge/GHOST_ACADEMY-cursos_%26_labs-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=B026FF&labelColor=0A0A0A&color=0A0A0A)](https://ghostacademy.unfantasmaenelsistema.com)
@@ -78,6 +78,6 @@ labs_vulnerables  = solo en entornos propios, jamás contra sistemas ajenos
 
 <div align="center">
 
-<sub>01000111 01001000 01001111 01010011 01010100 · Un fantasma en el sistema · Hecho por un profesor, para quien quiere aprender seguridad de verdad.</sub>
+<sub>01000111 01001000 01001111 01010011 01010100 · Un fantasma en el sistema · Código abierto, hecho para quien quiere aprender seguridad de verdad.</sub>
 
 </div>
