@@ -30,38 +30,38 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| 📶 **NetSim Router Lab** | Router doméstico simulado: configúralo, rómpelo y repáralo. DHCP, QoS, firewall, NAT, terminal con consola del router y taller de averías. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/NetSim-Router-Lab/) · [`</> código`](https://github.com/unfantasmaenelsistema/NetSim-Router-Lab) |
-| 🖥️ **Simulador de Instalación de SO** | Instala Debian, Ubuntu, Fedora, Rocky, Arch, Alpine o Windows Server paso a paso: UEFI, particionado, LVM2, LUKS2 y el script real de cada instalación. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/OS-Intall-Lab/) · [`</> código`](https://github.com/unfantasmaenelsistema/OS-Intall-Lab) |
-| 🧬 **Simulador de BIOS** | Funcionamiento interno de la BIOS/UEFI: secuencia POST, diagnóstico de hardware, estabilidad térmica y flasheo seguro de firmware. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/simulador-interactivo-bios/) · [`</> código`](https://github.com/unfantasmaenelsistema/simulador-interactivo-bios) |
+| 📶 **NetSim Router Lab** | Router doméstico simulado: configúralo, rómpelo y repáralo. DHCP, QoS, firewall, NAT, terminal con consola del router y taller de averías. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/NetSim-Router-Lab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/NetSim-Router-Lab) |
+| 🖥️ **Simulador de Instalación de SO** | Instala Debian, Ubuntu, Fedora, Rocky, Arch, Alpine o Windows Server paso a paso: UEFI, particionado, LVM2, LUKS2 y el script real de cada instalación. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/OS-Intall-Lab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/OS-Intall-Lab) |
+| 🧬 **Simulador de BIOS** | Funcionamiento interno de la BIOS/UEFI: secuencia POST, diagnóstico de hardware, estabilidad térmica y flasheo seguro de firmware. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/simulador-interactivo-bios/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/simulador-interactivo-bios) |
 
 ### 🎯 Pentesting y bug bounty
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| 🧪 **GhostPentestExam** | Simulacro de examen de pentesting tipo eJPTv2: DMZ, red interna, pivoting con Metasploit, cuestionario contra reloj e informe en PDF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPentestExam/) · [`</> código`](https://github.com/unfantasmaenelsistema/GhostPentestExam) |
-| 🔀 **Ghost Pivot Lab** | Pivoting y redirección de puertos en tres escenarios: portproxy en Windows, route add + portfwd en Linux y doble salto con EternalBlue. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPivotLab/) · [`</> código`](https://github.com/unfantasmaenelsistema/GhostPivotLab) |
-| 💰 **GhostBountyStudio** | Cuaderno de campaña para bug bounty: programas, recon, tablero de hallazgos, CVSS 3.1, generador de PoCs y reportes. Datos solo en tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostBountyStudio/) · [`</> código`](https://github.com/unfantasmaenelsistema/GhostBountyStudio) |
+| 🧪 **GhostPentestExam** | Simulacro de examen de pentesting tipo eJPTv2: DMZ, red interna, pivoting con Metasploit, cuestionario contra reloj e informe en PDF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPentestExam/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostPentestExam) |
+| 🔀 **Ghost Pivot Lab** | Pivoting y redirección de puertos en tres escenarios: portproxy en Windows, route add + portfwd en Linux y doble salto con EternalBlue. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPivotLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostPivotLab) |
+| 💰 **GhostBountyStudio** | Cuaderno de campaña para bug bounty: programas, recon, tablero de hallazgos, CVSS 3.1, generador de PoCs y reportes. Datos solo en tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostBountyStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostBountyStudio) |
 
 ### 🔬 Forense y OSINT
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| 🧠 **GhostForensics Lab** | Laboratorio forense interactivo: super-timeline, registro, Event Logs, memoria, red/C2, CloudTrail y modo caso con informe pericial. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostForensicsLab/) · [`</> código`](https://github.com/unfantasmaenelsistema/GhostForensicsLab) |
-| 🌍 **GeoSpecter OSINT** | Geolocalización de fotos: metadatos EXIF y, si no hay GPS, análisis visual con IA (con tu propia clave de Gemini, guardada solo en tu navegador). | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ghost-image-locator-web/) · [`</> código`](https://github.com/unfantasmaenelsistema/ghost-image-locator-web) |
+| 🧠 **GhostForensics Lab** | Laboratorio forense interactivo: super-timeline, registro, Event Logs, memoria, red/C2, CloudTrail y modo caso con informe pericial. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostForensicsLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostForensicsLab) |
+| 🌍 **GeoSpecter OSINT** | Geolocalización de fotos: metadatos EXIF y, si no hay GPS, análisis visual con IA (con tu propia clave de Gemini, guardada solo en tu navegador). | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ghost-image-locator-web/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ghost-image-locator-web) |
 
 ### 📡 Hardware, radio y RFID
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| ⚡ **CYD CyberSec Studio** | Curso y suite para la placa CYD (ESP32): Wi-Fi, BLE y Sub-GHz, simulador de la placa, constructor de firmware, carcasas 3D y academia CTF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/cyd-cybersec-studio/) · [`</> código`](https://github.com/unfantasmaenelsistema/cyd-cybersec-studio) |
-| 🪪 **RFID/NFC Lab** | Laboratorio virtual del curso de RFID/NFC: más de 15 simuladores, de la paridad y el CRC al clonado HID y MIFARE. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-RFID-NFC/) · [`</> código`](https://github.com/unfantasmaenelsistema/Curso-RFID-NFC) |
-| 📡 **Ghost Proxmark3 Studio** | Suite gráfica para auditorías RFID/NFC con un Proxmark3 real vía Web Serial, con asistencia de IA. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostProxmark3Studio/) · [`</> código`](https://github.com/unfantasmaenelsistema/GhostProxmark3Studio) |
+| ⚡ **CYD CyberSec Studio** | Curso y suite para la placa CYD (ESP32): Wi-Fi, BLE y Sub-GHz, simulador de la placa, constructor de firmware, carcasas 3D y academia CTF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/cyd-cybersec-studio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/cyd-cybersec-studio) |
+| 🪪 **RFID/NFC Lab** | Laboratorio virtual del curso de RFID/NFC: más de 15 simuladores, de la paridad y el CRC al clonado HID y MIFARE. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-RFID-NFC/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-RFID-NFC) |
+| 📡 **Ghost Proxmark3 Studio** | Suite gráfica para auditorías RFID/NFC con un Proxmark3 real vía Web Serial, con asistencia de IA. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostProxmark3Studio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostProxmark3Studio) |
 
 ### 🧰 Utilidades
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/) · [`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
+| 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
 
 <p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</p>
 
