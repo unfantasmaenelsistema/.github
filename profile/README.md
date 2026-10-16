@@ -69,8 +69,8 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| ☎️ **DTMF Codec** | Codificador y decodificador de tonos DTMF (ITU-T Q.23): genera tonos y WAV desde un teclado o una secuencia y decodifica en directo lo que oye el micrófono. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/DTMF_Codec/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/DTMF_Codec) |
-| 🌈 **SpectroHide** | Esteganografía en el espectrograma: esconde un texto en un WAV (solo o mezclado con otro audio) y analiza audios para revelarlo, con ajustes de FFT y mapa de color. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/SpectroHide/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/SpectroHide) |
+| ☎️ **DTMF Codec** | Codificador y decodificador de tonos DTMF (ITU-T Q.23): genera tonos y WAV desde un teclado o una secuencia, y decodifica archivos de audio o el micrófono con una tabla de tiempos de cada tecla. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/DTMF_Codec/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/DTMF_Codec) |
+| 🌈 **SpectroHide** | Esteganografía en el espectrograma: esconde un texto en un WAV (solo o mezclado con otro audio) y analiza audios a su frecuencia real, por canal o en diferencia L−R, con escala en dB y la guía exacta para Audacity. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/SpectroHide/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/SpectroHide) |
 
 ### 📖 Recursos
 
@@ -82,9 +82,9 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
-| 🔤 **ASCII Art Studio** | Convierte texto en arte ASCII con 9 juegos de caracteres, efectos (sombra, 3D, glitch…) y degradados de color, y lo exporta a TXT, HTML, SVG, PNG o JSON. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ASCII-ART-STUDIO/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ASCII-ART-STUDIO) |
+| 🔤 **ASCII Art Studio** | Convierte texto en arte ASCII con 11 fuentes FIGlet o con cualquier tipografía (ñ, tildes y emojis), efectos (sombra, 3D, reflejos…) y degradados de color, y lo exporta a TXT, HTML, SVG, PNG o JSON. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ASCII-ART-STUDIO/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ASCII-ART-STUDIO) |
 | 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
-| 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, WhatsApp, Bitcoin…) con formas, degradados, logo central y marco. Exporta a PNG, JPG, SVG o WEBP. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
+| 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, evento, WhatsApp, Bitcoin…) con formas, degradados, logo y marco que siguen siendo legibles. Exporta a PNG, JPG, WebP o SVG con el mismo diseño. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
 | 🐚 **Reverse Shell Generator** | Genera comandos de reverse shell (Bash, Python, Netcat, PHP, Perl, Ruby, PowerShell) a partir de IP y puerto, con validación y notas. Solo para laboratorios, CTF y auditorías autorizadas. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ReverseShellGenerator/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ReverseShellGenerator) |
 | 🎸 **RockYou Finder** | Dice en qué posición de rockyou.txt está una contraseña y cuánto tardarían Hydra o John en llegar a ella, para elegir claves de retos CTF. El diccionario viene integrado; la contraseña no sale del navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RockYouFinder/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RockYouFinder) |
 | 🪪 **VerificaDoc** | Estampa una marca de agua en tu DNI antes de enviarlo (motivo del trámite, fecha, número de serie) para evitar usos indebidos. 100% en tu navegador, sin servidores. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/VerificaDoc/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/VerificaDoc) |
