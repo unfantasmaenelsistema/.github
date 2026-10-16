@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-23_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-19_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-27_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-23_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -65,6 +65,13 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🛣️ **Highway to Shell** | Un mismo ciberataque vivido desde seis roles (red team, SOC, usuario, CISO, sysadmin y forense), seis fases cada uno, con revisión final de cada decisión. ES/EN. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/HIGHWAY-TO-SHELL/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/HIGHWAY-TO-SHELL) |
 | 🔐 **CiberEscape** | Escape room de ciberseguridad: cinco códigos (hash MD5, CVE, Base64, CWE y una copia expuesta) que se sacan investigando la propia web. Writeup incluido. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/CiberEscape/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CiberEscape) |
 
+### 🎧 CTF de audio
+
+| App | Qué hace | Enlaces |
+| :-- | :-- | :-- |
+| ☎️ **DTMF Codec** | Codificador y decodificador de tonos DTMF (ITU-T Q.23): genera tonos y WAV desde un teclado o una secuencia y decodifica en directo lo que oye el micrófono. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/DTMF_Codec/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/DTMF_Codec) |
+| 🌈 **SpectroHide** | Esteganografía en el espectrograma: esconde un texto en un WAV (solo o mezclado con otro audio) y analiza audios para revelarlo, con ajustes de FFT y mapa de color. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/SpectroHide/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/SpectroHide) |
+
 ### 📖 Recursos
 
 | App | Qué hace | Enlaces |
@@ -75,7 +82,9 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
+| 🔤 **ASCII Art Studio** | Convierte texto en arte ASCII con 9 juegos de caracteres, efectos (sombra, 3D, glitch…) y degradados de color, y lo exporta a TXT, HTML, SVG, PNG o JSON. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ASCII-ART-STUDIO/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ASCII-ART-STUDIO) |
 | 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
+| 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, WhatsApp, Bitcoin…) con formas, degradados, logo central y marco. Exporta a PNG, JPG, SVG o WEBP. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
 | 🐚 **Reverse Shell Generator** | Genera comandos de reverse shell (Bash, Python, Netcat, PHP, Perl, Ruby, PowerShell) a partir de IP y puerto, con validación y notas. Solo para laboratorios, CTF y auditorías autorizadas. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ReverseShellGenerator/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ReverseShellGenerator) |
 | 🎸 **RockYou Finder** | Dice en qué posición de rockyou.txt está una contraseña y cuánto tardarían Hydra o John en llegar a ella, para elegir claves de retos CTF. El diccionario viene integrado; la contraseña no sale del navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RockYouFinder/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RockYouFinder) |
 | 🪪 **VerificaDoc** | Estampa una marca de agua en tu DNI antes de enviarlo (motivo del trámite, fecha, número de serie) para evitar usos indebidos. 100% en tu navegador, sin servidores. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/VerificaDoc/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/VerificaDoc) |
