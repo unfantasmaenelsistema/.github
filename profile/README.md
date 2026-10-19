@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-30_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-26_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-31_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-27_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -72,6 +72,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | :-- | :-- | :-- |
 | 🛣️ **Highway to Shell** | Un mismo ciberataque vivido desde seis roles (red team, SOC, usuario, CISO, sysadmin y forense), seis fases cada uno, con revisión final de cada decisión. ES/EN. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/HIGHWAY-TO-SHELL/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/HIGHWAY-TO-SHELL) |
 | 🔐 **CiberEscape** | Escape room de ciberseguridad: cinco códigos (hash MD5, CVE, Base64, CWE y una copia expuesta) que se sacan investigando la propia web. Writeup incluido. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/CiberEscape/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CiberEscape) |
+| 🏆 **ConcursIT** | Juegos de clase para repasar informática y ciberseguridad por equipos: Trivial con tablero propio (340 preguntas en 6 categorías), Pasapalabra con seis roscos y modo duelo, y ¿Quién dijo qué? con frases de fuente comprobada. Modo proyector y pantalla completa. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ConcursIT/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ConcursIT) |
 
 ### 🎧 CTF de audio
 
