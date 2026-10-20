@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-35_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-31_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-37_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-33_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -42,6 +42,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🔀 **Ghost Pivot Lab** | Pivoting y redirección de puertos en tres escenarios: portproxy en Windows, route add + portfwd en Linux y doble salto con EternalBlue. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPivotLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostPivotLab) |
 | 💰 **GhostBountyStudio** | Cuaderno de campaña para bug bounty: programas, recon, tablero de hallazgos, CVSS 3.1, generador de PoCs y reportes. Datos solo en tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostBountyStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostBountyStudio) |
 | 🔑 **Profile2Pass** | Generador de diccionarios de contraseñas a partir de un perfil (OSINT), tipo CUPP: nombres, fechas, mascota, equipo… con variantes (mayúsculas, leet, símbolos), combinaciones y orden por probabilidad, listo para hashcat/john/hydra. Importa JSON/CSV. Para auditorías autorizadas, CTF y formación. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Profile2Pass/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Profile2Pass) |
+| 🛠️ **PwnBuilder** | Generador de comandos para 42 herramientas de pentesting y CTF (nmap, hydra, sqlmap, hashcat, aircrack-ng, Metasploit, Volatility…): monta el comando marcando opciones, sin memorizar banderas, y lo copias a tu terminal. PWA instalable. Solo escribe el comando, no ejecuta nada; para uso autorizado. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/PwnBuilder/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/PwnBuilder) |
 
 ### 🔬 Forense y OSINT
 
@@ -99,6 +100,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
 | 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, evento, WhatsApp, Bitcoin…) con formas, degradados, logo y marco que siguen siendo legibles. Exporta a PNG, JPG, WebP o SVG con el mismo diseño. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
 | 🐚 **Reverse Shell Generator** | Genera comandos de reverse shell (Bash, Python, Netcat, PHP, Perl, Ruby, PowerShell) a partir de IP y puerto, con validación y notas. Solo para laboratorios, CTF y auditorías autorizadas. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ReverseShellGenerator/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ReverseShellGenerator) |
+| 🔎 **Grep-it** | Constructor interactivo de comandos `grep`: marca opciones (coincidencia, contexto, recursividad, filtros) y ve el comando montarse en directo, con chuleta de expresiones regulares y ejemplos listos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Grep-it/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Grep-it) |
 | 🎸 **RockYou Finder** | Dice en qué posición de rockyou.txt está una contraseña y cuánto tardarían Hydra o John en llegar a ella, para elegir claves de retos CTF. El diccionario viene integrado; la contraseña no sale del navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RockYouFinder/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RockYouFinder) |
 | 🪪 **VerificaDoc** | Estampa una marca de agua en tu DNI antes de enviarlo (motivo del trámite, fecha, número de serie) para evitar usos indebidos. 100% en tu navegador, sin servidores. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/VerificaDoc/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/VerificaDoc) |
 
