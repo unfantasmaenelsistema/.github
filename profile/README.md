@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-37_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-33_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-38_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-34_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -31,6 +31,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
 | 📶 **NetSim Router Lab** | Router doméstico simulado: configúralo, rómpelo y repáralo. DHCP, QoS, firewall, NAT, terminal con consola del router y taller de averías. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/NetSim-Router-Lab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/NetSim-Router-Lab) |
+| 🪨 **Packet Stones** | Simulador de redes tipo Packet Tracer: monta routers, switches y PC, lanza un ping y sigue cada paquete. ARP, tablas MAC, rutas estáticas, TTL, RIP con caída de enlaces y DHCP, con log paso a paso y cuatro prácticas guiadas. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/PacketStones/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/PacketStones) |
 | 🖥️ **Simulador de Instalación de SO** | Instala Debian, Ubuntu, Fedora, Rocky, Arch, Alpine o Windows Server paso a paso: UEFI, particionado, LVM2, LUKS2 y el script real de cada instalación. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/OS-Intall-Lab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/OS-Intall-Lab) |
 | 🧬 **Simulador de BIOS** | Funcionamiento interno de la BIOS/UEFI: secuencia POST, diagnóstico de hardware, estabilidad térmica y flasheo seguro de firmware. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/simulador-interactivo-bios/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/simulador-interactivo-bios) |
 
