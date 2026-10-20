@@ -14,7 +14,7 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-38_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-39_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
 ![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-34_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
@@ -115,6 +115,7 @@ Herramientas que necesitan ejecutarse en tu máquina (servidor propio, Docker o 
 | :-- | :-- | :-- |
 | 🎯 **NetPhantom** | Generador de escenarios CTF con historia, banderas y pistas, y laboratorio vulnerable listo para Docker. Con catálogo offline o generación con IA. | [`</> código`](https://github.com/unfantasmaenelsistema/NetPhantom) |
 | 🐉 **KaliGUI** | Interfaz web local para 17 herramientas de Kali Linux, con vista previa del comando, chuletas de CTF e historial. Para prácticas en VM propias. | [`</> código`](https://github.com/unfantasmaenelsistema/KaliGUI) |
+| 🔍 **Nirvana LAN** | Auditoría de tu red local con panel web: descubrimiento de equipos, puertos y banners, DNS y SMB, vulnerabilidades (servicios expuestos, versiones antiguas, SNMP por defecto), escaneos programados e informes. Solo escucha en tu equipo. | [`▶ demo`](https://unfantasmaenelsistema.github.io/NirvanaLan/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/NirvanaLan) |
 | ⚡ **AC⚡DC Console** | Panel web ligero para administrar un servidor Linux: sistema, procesos, logs, servicios, firewall, cron, usuarios, ficheros y paquetes. | [`</> código`](https://github.com/unfantasmaenelsistema/acdc-console) |
 | 👻 **GeoSpecter OSINT (local)** | Versión de escritorio de GeoSpecter para Windows y Linux, con la clave de Gemini en un `.env` local. | [`</> código`](https://github.com/unfantasmaenelsistema/ghost-image-locator) |
 
