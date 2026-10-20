@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-34_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-30_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-35_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-31_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -41,6 +41,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🧪 **GhostPentestExam** | Simulacro de examen de pentesting tipo eJPTv2: DMZ, red interna, pivoting con Metasploit, cuestionario contra reloj e informe en PDF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPentestExam/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostPentestExam) |
 | 🔀 **Ghost Pivot Lab** | Pivoting y redirección de puertos en tres escenarios: portproxy en Windows, route add + portfwd en Linux y doble salto con EternalBlue. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostPivotLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostPivotLab) |
 | 💰 **GhostBountyStudio** | Cuaderno de campaña para bug bounty: programas, recon, tablero de hallazgos, CVSS 3.1, generador de PoCs y reportes. Datos solo en tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostBountyStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostBountyStudio) |
+| 🔑 **Profile2Pass** | Generador de diccionarios de contraseñas a partir de un perfil (OSINT), tipo CUPP: nombres, fechas, mascota, equipo… con variantes (mayúsculas, leet, símbolos), combinaciones y orden por probabilidad, listo para hashcat/john/hydra. Importa JSON/CSV. Para auditorías autorizadas, CTF y formación. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Profile2Pass/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Profile2Pass) |
 
 ### 🔬 Forense y OSINT
 
