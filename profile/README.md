@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-49_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-43_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-50_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-44_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -73,6 +73,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
+| 🖥️ **HardwareLab** | Taller de montaje y diagnóstico de PC y portátil: compatibilidad física real, POST con Q-codes, LEDs y pitidos AMI/Award, multímetro en el conector ATX, cámara térmica, BIOS UEFI, prueba de estrés y ocho averías para resolver. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/HardwareLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/HardwareLab) |
 | ⚡ **CYD CyberSec Studio** | Curso y suite para la placa CYD (ESP32): Wi-Fi, BLE y Sub-GHz, simulador de la placa, constructor de firmware, carcasas 3D y academia CTF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/cyd-cybersec-studio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/cyd-cybersec-studio) |
 | 🪪 **RFID/NFC Lab** | Laboratorio virtual del curso de RFID/NFC: más de 15 simuladores, de la paridad y el CRC al clonado HID y MIFARE. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-RFID-NFC/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-RFID-NFC) |
 | 📡 **Ghost Proxmark3 Studio** | Suite gráfica para auditorías RFID/NFC con un Proxmark3 real vía Web Serial, con asistencia de IA. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/GhostProxmark3Studio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/GhostProxmark3Studio) |
