@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-58_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-52_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-59_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-53_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -39,6 +39,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 💽 **RAIDLab** | Simulador de RAID 0, 1, 5, 6 y 10: averías en caliente y durante el rebuild, paridad P y Q bloque a bloque, capacidad útil, IOPS con penalización de escritura y S.M.A.R.T. simulado. Tutorial guiado, casos de clase, informe en PDF y versión offline en un solo HTML. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RAIDLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RAIDLab) |
 | 🗂️ **Simulador de Particionado** | Particiona, formatea y arranca tres discos virtuales con DiskPart y sus equivalentes de Linux: MBR y GPT, BIOS y UEFI, sector 0 en hexadecimal, NTFS, FAT32, exFAT, ext4 y swap, clústeres y slack, la barrera de 2 TB y el límite de 4 GB de FAT32. Cinco retos autoevaluables. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-Particionado-y-Sistemas-de-Archivos/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-Particionado-y-Sistemas-de-Archivos) |
 | ⌨️ **CLI Sandbox** | Entrenador de línea de comandos con una consola Bash y otra CMD/PowerShell: permisos POSIX y ACL de NTFS, fsck y chkdsk, DISM y SFC, procesos, tuberías y redirecciones, UFW y SHA-256 real. 16 retos guiados con modo examen, logros y certificado. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/CLI-Sandbox/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CLI-Sandbox) |
+| 🐧 **Curso de Linux** | 53 lecciones de administración de sistemas, de la terminal al bastionado, con 1.244 ejemplos para copiar, buscador y progreso. Incluye la preparación LPIC-1: 1.003 preguntas revisadas, simulacro cronometrado por pesos oficiales, práctica por tema y repaso de fallos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-Linux/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-Linux) |
 
 ### 🎯 Pentesting y bug bounty
 
@@ -152,6 +153,7 @@ Cursos y laboratorios prácticos de ciberseguridad, gratuitos, pensados para apr
 | 🔬 [**GhostForensics**](https://ghostacademy.unfantasmaenelsistema.com/11_Recursos/Cursos/GhostForensics/Curso/curso-ghostforensics.html) | Forense digital y respuesta a incidentes: 21 capítulos y 17 casos con evidencia descargable. |
 | ⚡ [**CYD CyberSec Studio**](https://ghostacademy.unfantasmaenelsistema.com/11_Recursos/Cursos/CYD-CyberSec-Studio/curso-cyd.html) | Wi-Fi, BLE y radiofrecuencia con una placa de 12 €, del protocolo al firmware. |
 | 📡 [**RFID/NFC Pentesting**](https://ghostacademy.unfantasmaenelsistema.com/11_Recursos/Cursos/RFID-NFC/curso-rfid.html) | Seis módulos, laboratorio virtual y Proxmark3 Studio para hardware real. |
+| 🐧 [**Curso de Linux**](https://unfantasmaenelsistema.github.io/Curso-Linux/) | 53 lecciones de la terminal a la seguridad y preparación LPIC-1 con 1.003 preguntas y simulacro de examen. |
 
 [![Entrar en Ghost Academy](https://img.shields.io/badge/›_ENTRAR_EN_GHOST_ACADEMY-B026FF?style=flat-square&labelColor=0A0A0A)](https://ghostacademy.unfantasmaenelsistema.com)
 
