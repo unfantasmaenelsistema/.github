@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-59_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-53_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-60_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-54_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -118,6 +118,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | ✂️ **ClearCut** | Quita el fondo de una o varias fotos con IA (ISNet) que se ejecuta en tu navegador: las imágenes no se suben a ningún servidor. Comparador antes/después, fondos, sombra, borde pegatina, presets para redes y descarga en PNG, JPG o ZIP. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ClearCut/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ClearCut) |
 | 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
 | 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, evento, WhatsApp, Bitcoin…) con formas, degradados, logo y marco que siguen siendo legibles. Exporta a PNG, JPG, WebP o SVG con el mismo diseño. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
+| 🔍 **QuizLens** | Haz una foto (o pega una captura) de una pregunta tipo test y obtén la respuesta correcta: 3 lecturas con modelos Gemini distintos, desempate si no coinciden y aviso de «dudosa». Aguanta fotos torcidas o con reflejos, exporta la sesión a PDF con plantilla de respuestas y funciona con tu clave gratuita de Gemini (y una de pago opcional). | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QuizLens/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QuizLens) |
 | 🐚 **Reverse Shell Generator** | Genera comandos de reverse shell (Bash, Python, Netcat, PHP, Perl, Ruby, PowerShell) a partir de IP y puerto, con validación y notas. Solo para laboratorios, CTF y auditorías autorizadas. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ReverseShellGenerator/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ReverseShellGenerator) |
 | 🔎 **Grep-it** | Constructor interactivo de comandos `grep`: marca opciones (coincidencia, contexto, recursividad, filtros) y ve el comando montarse en directo, con chuleta de expresiones regulares y ejemplos listos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Grep-it/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Grep-it) |
 | 🎸 **RockYou Finder** | Dice en qué posición de rockyou.txt está una contraseña y cuánto tardarían Hydra o John en llegar a ella, para elegir claves de retos CTF. El diccionario viene integrado; la contraseña no sale del navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RockYouFinder/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RockYouFinder) |
