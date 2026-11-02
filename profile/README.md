@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-60_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-54_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-61_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-55_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -39,6 +39,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 💽 **RAIDLab** | Simulador de RAID 0, 1, 5, 6 y 10: averías en caliente y durante el rebuild, paridad P y Q bloque a bloque, capacidad útil, IOPS con penalización de escritura y S.M.A.R.T. simulado. Tutorial guiado, casos de clase, informe en PDF y versión offline en un solo HTML. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RAIDLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RAIDLab) |
 | 🗂️ **Simulador de Particionado** | Particiona, formatea y arranca tres discos virtuales con DiskPart y sus equivalentes de Linux: MBR y GPT, BIOS y UEFI, sector 0 en hexadecimal, NTFS, FAT32, exFAT, ext4 y swap, clústeres y slack, la barrera de 2 TB y el límite de 4 GB de FAT32. Cinco retos autoevaluables. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-Particionado-y-Sistemas-de-Archivos/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-Particionado-y-Sistemas-de-Archivos) |
 | ⌨️ **CLI Sandbox** | Entrenador de línea de comandos con una consola Bash y otra CMD/PowerShell: permisos POSIX y ACL de NTFS, fsck y chkdsk, DISM y SFC, procesos, tuberías y redirecciones, UFW y SHA-256 real. 16 retos guiados con modo examen, logros y certificado. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/CLI-Sandbox/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CLI-Sandbox) |
+| 🗝️ **RegEdit Lab** | Réplica didáctica de regedit: las cinco ramas con su ámbito, HKLM frente a HKCU con claves espejo, edición fiel de DWORD, QWORD, binarios y cadenas múltiples, barra de direcciones con HKLM\… y exportación .reg con la sintaxis real. Siete casos de arranque, malware en Run, USBSTOR, directivas y rutas largas con corrección automática y entrega para el profesor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RegeditLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RegeditLab) |
 | 🐧 **Curso de Linux** | 53 lecciones de administración de sistemas, de la terminal al bastionado, con 1.244 ejemplos para copiar, buscador y progreso. Incluye la preparación LPIC-1: 1.003 preguntas revisadas, simulacro cronometrado por pesos oficiales, práctica por tema y repaso de fallos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-Linux/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-Linux) |
 
 ### 🎯 Pentesting y bug bounty
