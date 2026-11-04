@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-64_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-58_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-65_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-59_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -42,6 +42,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🗝️ **RegEdit Lab** | Réplica didáctica de regedit: las cinco ramas con su ámbito, HKLM frente a HKCU con claves espejo, edición fiel de DWORD, QWORD, binarios y cadenas múltiples, barra de direcciones con HKLM\… y exportación .reg con la sintaxis real. Siete casos de arranque, malware en Run, USBSTOR, directivas y rutas largas con corrección automática y entrega para el profesor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/RegeditLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/RegeditLab) |
 | 💾 **Simulador de Políticas de Copias de Seguridad** | Planifica una semana de copias completas, diferenciales e incrementales en NAS, cinta LTO, USB o nube y simula el desastre: runbook de restauración paso a paso, RTO y RPO, soportes dañados que rompen la cadena y regla 3-2-1-1-0 frente a avería, ransomware e incendio. Tres retos evaluables y preguntas de examen. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-de-Politicas-Copias-de-Seguridad/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-de-Politicas-Copias-de-Seguridad) |
 | 🧾 **Simulador de Auditoría de Licencias y Compatibilidad** | Audita los seis equipos de una oficina: Windows de 32 bits que solo ve 3,2 GB, una imagen de 64 bits que no arranca en un Atom, claves OEM reutilizadas, Office Hogar y Estudiantes, cracks y software sin soporte. Licencias OEM, Retail, Volumen, suscripción y libres, laboratorio de 32 frente a 64 bits y acta de auditoría. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-Auditoria-Licencias-y-Compatibilidad/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-Auditoria-Licencias-y-Compatibilidad) |
+| 🎧 **Entrenamiento Helpdesk Nivel 1** | Simulador de soporte técnico ante usuarios frustrados: 6 tickets reales de correo, Word y presentaciones en 3 fases, visor remoto del equipo y termómetro de frustración. Corrige la respuesta escrita (conceptos técnicos, empatía y claridad), cuenta todos los intentos y genera un informe para el profesor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Entrenamiento-Helpdesk-Nivel1/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Entrenamiento-Helpdesk-Nivel1) |
 | 🐧 **Curso de Linux** | 53 lecciones de administración de sistemas, de la terminal al bastionado, con 1.244 ejemplos para copiar, buscador y progreso. Incluye la preparación LPIC-1: 1.003 preguntas revisadas, simulacro cronometrado por pesos oficiales, práctica por tema y repaso de fallos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-Linux/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-Linux) |
 
 ### 🎯 Pentesting y bug bounty
