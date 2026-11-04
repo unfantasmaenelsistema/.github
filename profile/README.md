@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-63_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-57_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-64_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-58_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -119,6 +119,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | :-- | :-- | :-- |
 | 🔤 **ASCII Art Studio** | Convierte texto en arte ASCII con 11 fuentes FIGlet o con cualquier tipografía (ñ, tildes y emojis), efectos (sombra, 3D, reflejos…) y degradados de color, y lo exporta a TXT, HTML, SVG, PNG o JSON. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ASCII-ART-STUDIO/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ASCII-ART-STUDIO) |
 | ✂️ **ClearCut** | Quita el fondo de una o varias fotos con IA (ISNet) que se ejecuta en tu navegador: las imágenes no se suben a ningún servidor. Comparador antes/después, fondos, sombra, borde pegatina, presets para redes y descarga en PNG, JPG o ZIP. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ClearCut/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ClearCut) |
+| 🔐 **EmojiByte** | Codifica texto, hexadecimal o archivos en emojis (1 byte = 1 emoji) con tres alfabetos, camuflaje en mensajes de chat, CRC-8 y cifrado AES-256-GCM opcional, y compara hashes SHA-256 de un vistazo con el efecto avalancha. Explica qué protege cada cosa y qué no. 100 % en tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/EmojiByte/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/EmojiByte) |
 | 📝 **Mark2HTML Studio** | Editor y conversor de Markdown a HTML autónomo y PDF vectorial, 100 % en el navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Mark2HTMLStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Mark2HTMLStudio) |
 | 🔳 **QrFactory** | Generador de códigos QR de 15 tipos (URL, WiFi, vCard, evento, WhatsApp, Bitcoin…) con formas, degradados, logo y marco que siguen siendo legibles. Exporta a PNG, JPG, WebP o SVG con el mismo diseño. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QrFactory/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QrFactory) |
 | 🔍 **QuizLens** | Haz una foto (o pega una captura) de una pregunta tipo test y obtén la respuesta correcta: 3 lecturas con modelos Gemini distintos, desempate si no coinciden y aviso de «dudosa». Aguanta fotos torcidas o con reflejos, exporta la sesión a PDF con plantilla de respuestas y funciona con tu clave gratuita de Gemini (y una de pago opcional). | [`▶ abrir`](https://unfantasmaenelsistema.github.io/QuizLens/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/QuizLens) |
