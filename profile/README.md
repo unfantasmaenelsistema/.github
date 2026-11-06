@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-69_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-63_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-70_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-64_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -75,6 +75,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | App | Qué hace | Enlaces |
 | :-- | :-- | :-- |
 | 🛡️ **BlueTeamAI** | Tres herramientas con IA (tu propia clave gratuita de Gemini): analizador de logs con alertas, MITRE ATT&CK e IPs verificadas contra el log; respuesta a incidentes con plan, checklist y RGPD/NIS2/ENS; y generador de políticas de seguridad en PDF, Word y HTML. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/BlueTeamAI/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/BlueTeamAI) |
+| 🚨 **Simulador de Incidentes y Malware** | Respuesta a incidentes en un Windows comprometido: procesos y red, autoarranque (Run, Winlogon, tareas, WMI), servicios, Visor de eventos, restauración con VSS y wbadmin, y una terminal CMD/PowerShell. 7 casos (troyano, pre-ransomware, minero, ataque sin archivos, volcado de LSASS…), generador con semilla, modo examen sin pistas y auditoría con informe. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-Incidentes-Malware/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-Incidentes-Malware) |
 | 🧱 **Hardening Checklist** | Checklist de bastionado de Windows y Linux: 80 medidas con su comando o configuración y criticidad, progreso guardado, búsqueda en comandos y exportación del estado a TXT, HTML y PDF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Hardening-Checklist/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Hardening-Checklist) |
 | 🎭 **FakerStudio** | Datos ficticios para pruebas y formación: identidades españolas coherentes (DNI/NIE válidos, CP de su provincia, CSV/JSON/SQL con semilla repetible) y un simulador de chat de mensajería con plantillas de estafas reales para clases de concienciación; cada captura lleva la marca «FICTICIO». | [`▶ abrir`](https://unfantasmaenelsistema.github.io/FakerStudio/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/FakerStudio) |
 | 🎣 **Phishing Homográfico** | Test de 10 correos (de un banco de 16) para distinguir dominios auténticos de homógrafos con letras cirílicas o griegas idénticas a las latinas, con el carácter impostor marcado letra a letra; y un analizador que clasifica cualquier enlace o dominio, detecta mezcla de alfabetos y descodifica punycode (`xn--`). | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Phishing-Homografico/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Phishing-Homografico) |
