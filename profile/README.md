@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-76_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-70_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-77_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-71_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -109,6 +109,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 💀 **CÓDIGO CAOS** | CTF de seguridad web con diez retos encadenados que se desbloquean al validar cada bandera: código fuente, CSS, JavaScript, Base64, `robots.txt`, `localStorage`, inyección SQL contra un evaluador SQL real, XSS, cookies y recursos olvidados; con pistas y writeup. | [`▶ jugar`](https://unfantasmaenelsistema.github.io/CODIGO-CAOS/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CODIGO-CAOS) |
 | 🏆 **ConcursIT** | Juegos de clase para repasar informática y ciberseguridad por equipos: Trivial con tablero propio (340 preguntas en 6 categorías), Pasapalabra con seis roscos y modo duelo, y ¿Quién dijo qué? con frases de fuente comprobada. Modo proyector y pantalla completa. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ConcursIT/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ConcursIT) |
 | 🕹️ **CyberAcademy SMR** | Aventura point & click en una oficina de soporte: 6 averías reales (latiguillo suelto, `BOOTMGR is missing`, despliegue silencioso con NSIS, proceso colgado, IP duplicada y un usuario que ha perdido su informe) que se diagnostican en una consola CMD/WinRE que responde como Windows. Rack con tester EIA/TIA-568B, teoría y test por misión del IFCT0209, insignias, expediente imprimible y versión offline en un solo HTML. | [`▶ jugar`](https://unfantasmaenelsistema.github.io/CyberAcademySMR/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/CyberAcademySMR) |
+| 🎭 **Fsociety CTF** | CTF narrativo en el navegador: seis fases de intrusión encadenadas (SQLi, FTP y SMB, clonado RFID, fuerza bruta SSH, portal cautivo e IoT, puerto serie) desde una terminal Kali simulada, con IDS que castiga el ruido, mapa de red, IRC del equipo, sniffer, tres dificultades, ranking y certificado PDF con QR. | [`▶ jugar`](https://unfantasmaenelsistema.github.io/FsocietyCTF/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/FsocietyCTF) |
 
 ### 🎧 CTF de audio
 
