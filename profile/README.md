@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-77_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-71_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-78_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-72_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -87,6 +87,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🔍 **TrustWatch** | Comprobaciones de seguridad para el día a día: ¿está tu correo en alguna filtración?, generador y medidor de contraseñas con consulta anónima a Have I Been Pwned, URL peligrosas (Google Safe Browsing), cabeceras HTTP, dominio (alta, registrador, SPF y DMARC), DNS, IP y teléfono. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/TrustWatch/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/TrustWatch) |
 | 🕵️ **PrivacyProbe** | Tu huella digital del navegador (canvas, GPU, fuentes, pantalla, audio, idioma…) medida en local y comparada con estudios reales (Panopticlick, AmIUnique, Hiding in the Crowd). Compara incógnito, Brave y Tor, prueba fugas de WebRTC y activa defensas una a una. Nada sale de tu navegador. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/PrivacyProbe/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/PrivacyProbe) |
 | 🍯 **HoneyToken Lab** | Genera honeytokens (Word, Excel, PDF, QR, .env, SQL, carpeta de Windows) que avisan a tu propio receptor y explica, con pruebas en Word, Excel y Windows reales, cuándo saltan y cuándo no. Con simulador para clase. Sin servidor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/HoneyTokenLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/HoneyTokenLab) |
+| 🔎 **LogHunter** | Simulador SIEM y entrenador blue team: explorador de logs de Windows Security, Linux `auth.log` y web Nginx/Apache con histograma, panel de evento con enriquecimiento MITRE ATT&CK y pivoteo rápido, línea temporal con correlación automática, constructor de reglas Sigma que se prueba contra los logs, importador de logs propios y tres escenarios CTF con flags. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/LogHunter/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/LogHunter) |
 
 ### 📡 Hardware, radio y RFID
 
