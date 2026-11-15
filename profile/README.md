@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-86_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-80_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-87_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-81_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -94,6 +94,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🍯 **HoneyToken Lab** | Genera honeytokens (Word, Excel, PDF, QR, .env, SQL, carpeta de Windows) que avisan a tu propio receptor y explica, con pruebas en Word, Excel y Windows reales, cuándo saltan y cuándo no. Con simulador para clase. Sin servidor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/HoneyTokenLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/HoneyTokenLab) |
 | 🔎 **LogHunter** | Simulador SIEM y entrenador blue team: explorador de logs de Windows Security, Linux `auth.log` y web Nginx/Apache con histograma, panel de evento con enriquecimiento MITRE ATT&CK y pivoteo rápido, línea temporal con correlación automática, constructor de reglas Sigma que se prueba contra los logs, importador de logs propios y tres escenarios CTF con flags. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/LogHunter/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/LogHunter) |
 | 🗄️ **InventarioCMDB** | Laboratorio SOC de inventario y vulnerabilidades: descubrimiento de red con escaneo activo (que un honeypot bloquea) y pasivo, terminal con nmap, tshark, arp y sbom simulados, CMDB con ficha de CI, mapa de relaciones y cuarentena, auditoría SBOM/CVE con CVSS, CWE y CISA KEV, mapa de calor por subred, exportación CycloneDX 1.5 y tres retos CTF. Modo difícil con red aleatoria. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/InventarioCMDB/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/InventarioCMDB) |
+| 🔥 **DRP Tabletop** | Simulador de ejercicio de mesa de Plan de Recuperación ante Desastres estilo SOC: tres crisis (ransomware, caída de región cloud y cadena de suministro CI/CD) por turnos de 60 segundos con decisiones de impacto oculto, RTO, RPO, coste y estrés en tiempo real, matriz BIA, escalado por SLA, registro con gráfico D3 e informe After Action Report con puntuación, rango y bandera CTF. Escenarios propios en Base64/JSON. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/DRP-Tabletop/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/DRP-Tabletop) |
 
 ### 📡 Hardware, radio y RFID
 
