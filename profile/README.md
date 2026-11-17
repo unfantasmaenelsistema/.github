@@ -14,8 +14,8 @@ Herramientas, cursos y apps de ciberseguridad de código abierto. Rompemos siste
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=flat-square&labelColor=0A0A0A)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00F0FF?style=flat-square&labelColor=0A0A0A)
-![Apps](https://img.shields.io/badge/GHOSTAPPS-89_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
-![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-83_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
+![Apps](https://img.shields.io/badge/GHOSTAPPS-90_GRATUITAS-B026FF?style=flat-square&labelColor=0A0A0A)
+![Online](https://img.shields.io/badge/EN_EL_NAVEGADOR-84_APPS-39FF14?style=flat-square&labelColor=0A0A0A)
 ![Stack](https://img.shields.io/badge/STACK-TypeScript_%7C_Python_%7C_React-FF2BD6?style=flat-square&labelColor=0A0A0A)
 
 </div>
@@ -57,6 +57,7 @@ Sin instalar nada: cada app se abre en GitHub Pages y funciona en el navegador. 
 | 🧾 **Simulador de Auditoría de Licencias y Compatibilidad** | Audita los seis equipos de una oficina: Windows de 32 bits que solo ve 3,2 GB, una imagen de 64 bits que no arranca en un Atom, claves OEM reutilizadas, Office Hogar y Estudiantes, cracks y software sin soporte. Licencias OEM, Retail, Volumen, suscripción y libres, laboratorio de 32 frente a 64 bits y acta de auditoría. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Simulador-Auditoria-Licencias-y-Compatibilidad/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Simulador-Auditoria-Licencias-y-Compatibilidad) |
 | 🎧 **Entrenamiento Helpdesk Nivel 1** | Simulador de soporte técnico ante usuarios frustrados: 6 tickets reales de correo, Word y presentaciones en 3 fases, visor remoto del equipo y termómetro de frustración. Corrige la respuesta escrita (conceptos técnicos, empatía y claridad), cuenta todos los intentos y genera un informe para el profesor. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Entrenamiento-Helpdesk-Nivel1/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Entrenamiento-Helpdesk-Nivel1) |
 | 🛎️ **ServiceDeskLab** | Mesa de servicio ITIL 4 con cuatro perfiles (usuario, N1, N2/N3 y SDM): tickets con matriz impacto × urgencia y SLA en cuenta atrás, escalado con OLA, resolución en primer contacto con la KEDB, problemas con 5 porqués e Ishikawa, cambios con CAB y ECAB, CMDB con dependencias, encuesta CSAT, escenarios en vivo (ransomware, caída del core, certificado caducado), rúbrica de 8 hitos e informe A4. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/ServiceDeskLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/ServiceDeskLab) |
+| 📬 **MailSetupLab** | Cliente de correo de escritorio simulado para soporte: cuentas IMAP, POP3 y SMTP con SSL/TLS, STARTTLS, certificado caducado, error 535 y OAuth2 o contraseña de aplicación; consola de protocolo en vivo, inspector forense de cabeceras SPF/DKIM/DMARC, reglas de filtrado, firmas, simulador DNS y seis tickets CTF. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/MailSetupLab/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/MailSetupLab) |
 | 🐧 **Curso de Linux** | 53 lecciones de administración de sistemas, de la terminal al bastionado, con 1.244 ejemplos para copiar, buscador y progreso. Incluye la preparación LPIC-1: 1.003 preguntas revisadas, simulacro cronometrado por pesos oficiales, práctica por tema y repaso de fallos. | [`▶ abrir`](https://unfantasmaenelsistema.github.io/Curso-Linux/)<br>[`</> código`](https://github.com/unfantasmaenelsistema/Curso-Linux) |
 
 ### 🎯 Pentesting y bug bounty
